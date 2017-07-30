@@ -1,0 +1,16 @@
+body{background-color:#f0f0f0;font-size: small; }
+main{width:90%;margin:0 auto 0 auto;}
+.part{position:relative; background-color: white;margin-bottom: 5px;margin-top: 0;background-color:#fff;padding:2em;padding-bottom:0.5em;}
+.time{position:relative; bottom:0;left:0;font-size:1.25em;font-family:"黑体";margin:0.5em 0  1em 11%; }
+.headimage{float:left;position: relative; margin-right:0.5em;}
+.content{margin-left:11%;}
+.word{line-height: 1.25em; margin-bottom: 1em;}
+.name{font-weight: bold;font-size:1.5em;}
+.myicon{width:1.5em;margin:0 2em 2px 2em;}
+.click{position: absolute;bottom:0;right:0;margin-bottom:0.5em; margin-right:6em;}
+#light{border: solid black 1px;margin:0;}
+.myimg{width:90%; margin:0 auto 0 auto;}
+.pics{height:700px;}
+.pics img:not(:first-child){width:0;}
+.write{width:90%;margin:0 auto 0 auto;}
+#wall{position: fixed;z-index: 9999; }
